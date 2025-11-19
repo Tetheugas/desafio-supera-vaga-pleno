@@ -1,5 +1,24 @@
 # Sistema de Solicitação de Acesso a Módulos
 
+
+## Processo de Desenvolvimento
+
+Este projeto foi desenvolvido com auxílio de IA (Kiro/Claude) como ferramenta de 
+produtividade e pair programming. O uso de IA foi estratégico para:
+
+- Acelerar a implementação de funcionalidades conhecidas
+- Validar decisões arquiteturais
+- Troubleshooting de problemas técnicos
+- Garantir boas práticas e padrões de código
+
+**Minha contribuição:**
+- Definição da arquitetura e estrutura do projeto
+- Decisões de design e modelagem de dados
+- Implementação e adaptação das soluções propostas
+- Troubleshooting e resolução de problemas
+- Testes e validação de funcionalidades
+- Compreensão profunda de cada componente implementado
+
 ## Descrição do Projeto
 Sistema corporativo para gerenciamento de solicitações de acesso a módulos, com autenticação JWT, validação automática de regras de negócio e concessão automática de acessos.
 
